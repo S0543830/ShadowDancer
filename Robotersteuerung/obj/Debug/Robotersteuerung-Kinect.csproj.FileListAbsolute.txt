@@ -37,3 +37,22 @@ C:\Users\Bozz\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Kinect-gesteuerte
 C:\Users\Bozz\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Kinect-gesteuerter Roboter\Robotersteuerung\obj\Debug\Robotersteuerung-Kinect.csproj.CoreCompileInputs.cache
 C:\Users\Bozz\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Kinect-gesteuerter Roboter\Robotersteuerung\obj\Debug\Roboter.exe
 C:\Users\Bozz\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Kinect-gesteuerter Roboter\Robotersteuerung\obj\Debug\Roboter.pdb
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Roboter.exe
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Roboter.pdb
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.PhoneClient.dll
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Microsoft.Kinect.dll
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\bin\Debug\Microsoft.Kinect.xml
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\Robotersteuerung-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\MainWindow.baml
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\MainWindow.g.cs
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\App.g.cs
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\Roboter_MarkupCompile.cache
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\Roboter.g.resources
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\RoboterKinect.Properties.Resources.resources
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\Robotersteuerung-Kinect.csproj.GenerateResource.Cache
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\Roboter.exe
+C:\Users\el-ba\Desktop\ShadowDancer\Robotersteuerung\obj\Debug\Roboter.pdb
